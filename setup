@@ -1,0 +1,3 @@
+# venv setup (install these packages in your python env)
+pip3 install torch torchvision
+pip install matplotlib
